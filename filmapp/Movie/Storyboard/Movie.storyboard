@@ -46,8 +46,8 @@
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Horror | Action | Romance" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RfB-zi-RUr">
-                                <rect key="frame" x="20" y="490" width="184" height="22"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Horror | Action | Romance" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RfB-zi-RUr">
+                                <rect key="frame" x="20" y="490" width="374" height="22"/>
                                 <fontDescription key="fontDescription" name="Avenir-Book" family="Avenir" pointSize="16"/>
                                 <color key="textColor" red="0.56078431370000004" green="0.59607843140000005" blue="0.6588235294" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
@@ -267,6 +267,7 @@
                             <constraint firstItem="2e4-K2-95S" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="20" id="qhM-dH-czQ"/>
                             <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="Q3u-G7-aPf" secondAttribute="trailing" constant="20" id="ri3-90-HbR"/>
                             <constraint firstItem="lNc-Dr-uIc" firstAttribute="top" secondItem="vDu-zF-Fre" secondAttribute="top" constant="2" id="s3p-ay-gcf"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="RfB-zi-RUr" secondAttribute="trailing" constant="20" id="tQe-IF-snH"/>
                             <constraint firstItem="i3W-w8-874" firstAttribute="top" secondItem="qqg-Fr-7Cq" secondAttribute="bottom" constant="5" id="u1e-tK-oOa"/>
                             <constraint firstItem="lNc-Dr-uIc" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="20" id="y0g-1g-F29"/>
                             <constraint firstItem="rHZ-lz-aA9" firstAttribute="centerY" secondItem="2e4-K2-95S" secondAttribute="centerY" id="ygI-VC-ZfL"/>
