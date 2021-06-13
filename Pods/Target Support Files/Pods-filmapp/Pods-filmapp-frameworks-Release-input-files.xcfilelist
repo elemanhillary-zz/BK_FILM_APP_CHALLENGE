@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-filmapp/Pods-filmapp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Cosmos/Cosmos.framework
+${BUILT_PRODUCTS_DIR}/HandyJSON/HandyJSON.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SPIndicator/SPIndicator.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
